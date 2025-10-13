@@ -1,0 +1,1 @@
+print("swati","shreya",123 , sep="|")
